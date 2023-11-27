@@ -1,15 +1,6 @@
 # hand-gesture-recognition-deep-learning
 Project to recognize  hand gesture using state of the art neural networks.
 
-## Team
-
-Aman Srivastava [https://www.linkedin.com/in/amansrivastava1/]
-
-Nurul Q Khan [https://www.linkedin.com/in/nurulquamar/]
-
-Prakash Srinivasan [https://www.linkedin.com/in/prakash-srinivasan-6641812/]
-
-Tim Kumar [https://www.linkedin.com/in/tim-kumar-b1519252/]
 
 ## Problem Statement
 Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote
